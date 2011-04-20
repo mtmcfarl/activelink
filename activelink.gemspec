@@ -5,5 +5,5 @@ Gem::Specification.new do |s|
   s.summary = "Insert Activelink summary."
   s.description = "Insert Activelink description."
   s.files = Dir["{app,lib,config}/**/*"] + ["MIT-LICENSE", "Rakefile", "Gemfile", "README.rdoc"]
-  s.version = "0.0.1"
+  s.version = "1.0.0"
 end
